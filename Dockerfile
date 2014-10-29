@@ -1,4 +1,4 @@
-FROM centos:latest
+FROM centos:centos6
 MAINTAINER Ingensi labs <contact@ingensi.com>
 
 RUN yum update -y
